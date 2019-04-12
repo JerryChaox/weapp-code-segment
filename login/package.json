@@ -1,0 +1,10 @@
+{
+  "name": "login",
+  "version": "1.0.0",
+  "description": "a code segament for wx login with token",
+  "author": "jerrychaox <jerrychaox8406@gmail.com>",
+  "private": false,
+  "dependencies": {
+    "qs": "^6.7.0"
+  }
+}
